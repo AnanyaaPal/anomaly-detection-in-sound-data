@@ -8,13 +8,22 @@ To provide practical recommendations for interpretable anomaly detection, based 
 
 ## Dataset
 
+## Project Installation
+Step 1 - Clone the git repository.
+
+Step 2- Install project dependencies as follows:
+```
+pip install -r requirements.txt
+```
 
 ## Progress
 | Index | Description | Progress
 | --- | --- | ---
-| 1 | Resampling/Bootstrapping | In Progress
-| 2 | Model Training | Not Started
-| 3 | Model Evaluation | Not Started
-| 4 | Compute Metrics | Not Started
-| 5 | Compare Model Performance | Not Started
+| 1 | Case A: Implementation of Methods without bootstrapping | [Completed](experiments/without%20bootstrapping)
+| 2 | Case B: Implementation of Methods with bootstrapping | [Completed](experiments/with%20bootstrapping)
+| 3 | Case A: Comparison of Metrics | [Completed](experiments/without%20bootstrapping/compare_methods.ipynb)
+| 4 | Case B: Comparison of Metrics | In Progress
+
+## Interim Presentation of Results 
+To be updated
  
