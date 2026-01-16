@@ -25,5 +25,5 @@ pip install -r requirements.txt
 | 4 | Case B: Comparison of Metrics | In Progress
 
 ## Interim Presentation of Results 
-To be updated
- 
+![AUC Comparison Without Bootstrapping](assets/auc_comparison_without_bootstrapping.png) 
+ Clearly, the outperforming method is the Autoencoder. 
