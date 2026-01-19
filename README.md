@@ -28,4 +28,4 @@ pip install -r requirements.txt
 ![AUC Comparison Without Bootstrapping](assets/auc_comparison_without_bootstrapping.png) 
 On comparing the performance of each model with respect to individual machine IDs, we confirm that the outperforming method is the Autoencoder.
 ![AUC Comparison with machine IDs](assets/AUC_comparison_with_ids.png)
-The interim presentation with relevant algorithmic choices supported with mathematical equations can be found ![here](assets/Resampling_Interim_Presentation.pdf).
+The interim presentation with relevant algorithmic choices supported with mathematical equations can be found [here](assets/Resampling_Interim_Presentation.pdf).
